@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub'ui\\klonuotaRepo\\Semestro-projektas\\SVS\\SVS\\SVS.csproj": {}
+    "D:\\GitHub'ui\\klonuotaRepo\\proj\\SVS\\SVS\\SVS.csproj": {}
   },
   "projects": {
-    "D:\\GitHub'ui\\klonuotaRepo\\Semestro-projektas\\SVS\\SVS\\SVS.csproj": {
+    "D:\\GitHub'ui\\klonuotaRepo\\proj\\SVS\\SVS\\SVS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub'ui\\klonuotaRepo\\Semestro-projektas\\SVS\\SVS\\SVS.csproj",
+        "projectUniqueName": "D:\\GitHub'ui\\klonuotaRepo\\proj\\SVS\\SVS\\SVS.csproj",
         "projectName": "SVS",
-        "projectPath": "D:\\GitHub'ui\\klonuotaRepo\\Semestro-projektas\\SVS\\SVS\\SVS.csproj",
+        "projectPath": "D:\\GitHub'ui\\klonuotaRepo\\proj\\SVS\\SVS\\SVS.csproj",
         "packagesPath": "C:\\Users\\Matas\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub'ui\\klonuotaRepo\\Semestro-projektas\\SVS\\SVS\\obj\\",
+        "outputPath": "D:\\GitHub'ui\\klonuotaRepo\\proj\\SVS\\SVS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

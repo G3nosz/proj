@@ -5,7 +5,7 @@ namespace SVS
 
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main(string[] args, int skaicius)
         {
             CreateHostBuilder(args).Build().Run();
         }
